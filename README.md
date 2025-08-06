@@ -11,7 +11,7 @@ A sleek and responsive weather app built with **React**, **Vite**, and **Tailwin
 
 ## 📸 Screenshots
 
-![WeatherApp Screenshot](public/screenshot.png)  
+![WeatherApp Screenshot](public/Screenshot.png)  
 
 ---
 
