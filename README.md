@@ -38,7 +38,7 @@ A sleek and responsive weather app built with **React**, **Vite**, and **Tailwin
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/WeatherApp.git
+git clone https://github.com/mohammedarshath2705/WeatherApp.git
 cd WeatherApp
 
 # Install dependencies
